@@ -7,3 +7,5 @@ GameApp/proj.android-studio/jni
 GameApp/proj.android-studio/libs
 GameApp/proj.android-studio/obj
 GameApp/cocos2d
+GameApp/proj.win32/GameApp.sdf
+GameApp/proj.win32/GameApp.VC.opendb
